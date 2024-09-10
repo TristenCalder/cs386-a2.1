@@ -14,4 +14,3 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDri
 - *Recorder*: [Elliott Kinsley]
 - Reflector: [Tristen Calder]
 - Presenter: [Ryan Todd]
-# cs386-a2.1
